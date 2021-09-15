@@ -1,4 +1,4 @@
-### Hi there, I'm Heiyehk! 👋
+### Hi there, I'm heiyehk! 👋
 
 - 🔭 I’m currently working on component development.
 - 🌱 I’m currently learning the front-end knowledge.
