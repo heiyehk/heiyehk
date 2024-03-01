@@ -2,4 +2,5 @@
 
 - 🌱 I’m currently learning the front-end knowledge.
 
-我在上海，正在寻找Vue、React的工作岗位。
+### Look for work!
+I'm in Shanghai and looking for jobs in Vue and React.
